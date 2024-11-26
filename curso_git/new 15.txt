@@ -1,0 +1,1 @@
+gere um codigo em python que leia este dataset e gere nas bibliotecas train_test_split e kneighborsclassifiers o atributi alvo é o Experience_Level com uma base de treino de 70% e teste 30% gerando o resultado das acuracias e a matriz de confusao destas duas bases. mostre todas as etapas de preparação dos dados e os resultados.
